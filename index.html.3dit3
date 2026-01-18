@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Akamai Youth | Hawaiʻi-based youth tech nonprofit</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- Hero -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<h1>Akamai Youth</h1>
+							<p class="major">Supporting Hawaiʻi’s youth and families through technology, mentorship, and opportunity.</p>
+							<p>Akamai Youth is a Hawaiʻi-based nonprofit. Our focus is simple; we help young people build confidence and practical skills through hands-on learning, caring mentors, and community support that feels local and real.</p>
+							<ul class="actions stacked">
+								<li><a href="#youth" class="button big wide smooth-scroll-middle">Start here</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/banner.jpg" alt="Akamai Youth; youth and families in Hawaiʻi" />
+						</div>
+					</section>
+
+				<!-- Youth & Families -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="youth">
+						<div class="content">
+							<h2>For youth and families</h2>
+							<p>We’re here for keiki and ʻohana. Technology moves fast, and not every family has the same time, access, or support. Akamai Youth helps bridge that gap in a way that feels welcoming; no judgment, no pressure, and no assumptions.</p>
+							<p><strong>What families can expect</strong></p>
+							<ul>
+								<li>Hands-on learning that builds confidence and curiosity;</li>
+								<li>Positive mentorship and a safe place to ask questions and grow;</li>
+								<li>Practical technology skills that translate to school, work, and everyday life.</li>
+							</ul>
+							<ul class="actions stacked">
+								<li><a href="#programs" class="button">See what we do</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight01.jpg" alt="Hands-on learning and mentorship" />
+						</div>
+					</section>
+
+				<!-- Programs -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in" id="programs">
+						<div class="content">
+							<h2>What we do</h2>
+							<p>Our programs are designed to be approachable, practical, and supportive. We focus on real skills, real relationships, and steady progress; not hype.</p>
+							<ul>
+								<li><strong>Technology access and digital skills</strong>; helping youth become confident users and creators, not just consumers;</li>
+								<li><strong>Mentorship and guidance</strong>; caring adults who listen, encourage, and help youth see what’s possible;</li>
+								<li><strong>Hands-on learning</strong>; learning by doing, building, and exploring interests in a supportive environment.</li>
+							</ul>
+							<ul class="actions stacked">
+								<li><a href="#impact" class="button">Why it matters</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight02.jpg" alt="Youth building skills with technology" />
+						</div>
+					</section>
+
+				<!-- Impact -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="impact">
+						<div class="content">
+							<h2>Why it matters</h2>
+							<p>Strengthening Hawaiʻi’s future starts with supporting today’s youth. When young people feel capable and seen, the impact reaches far beyond the classroom and into families, workplaces, and communities.</p>
+							<ul>
+								<li>Building confidence and resilience;</li>
+								<li>Reducing opportunity gaps;</li>
+								<li>Preparing youth for education, careers, and community life.</li>
+							</ul>
+							<ul class="actions stacked">
+								<li><a href="#partners" class="button">Partner with us</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight03.jpg" alt="Community support and mentorship" />
+						</div>
+					</section>
+
+				<!-- Partners & Donors -->
+					<section class="wrapper style1 align-center" id="partners">
+						<div class="inner">
+							<h2>For partners and donors</h2>
+							<p>If you care about Hawaiʻi’s future, there’s a place for you here. Akamai Youth works best with the community; local businesses, mentors, and organizations who want to support youth in a grounded, practical way.</p>
+							<p><strong>Akamai Youth is a 501(c)(3) charitable nonprofit</strong> (EIN 41-2656861). We take stewardship seriously and aim to make support easy, transparent, and meaningful.</p>
+							<ul class="actions special">
+								<li><a href="mailto:info@akamaiyouth.org" class="button primary">Contact us about partnering</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Institutions & Grants -->
+					<section class="wrapper style1 align-center" id="institutions">
+						<div class="inner">
+							<h2>For institutions and grantmakers</h2>
+							<p>Akamai Youth is a Hawaiʻi-based 501(c)(3) nonprofit focused on youth development through technology, mentorship, and hands-on learning. We welcome conversations with institutional partners aligned with education, workforce readiness, and community resilience.</p>
+							<div class="items style1 medium onscroll-fade-in">
+								<section>
+									<span class="icon solid style2 major fa-chart-bar"></span>
+									<h3>Accountability</h3>
+									<p>Clear program intent, thoughtful planning, and responsible stewardship of resources.</p>
+								</section>
+								<section>
+									<span class="icon style2 major fa-gem"></span>
+									<h3>Community rooted</h3>
+									<p>Built around local relationships, cultural respect, and practical support for families.</p>
+								</section>
+								<section>
+									<span class="icon solid style2 major fa-leaf"></span>
+									<h3>Long-term focus</h3>
+									<p>Steady growth, sustainable programs, and outcomes that strengthen youth over time.</p>
+								</section>
+							</div>
+							<ul class="actions special">
+								<li><a href="mailto:info@akamaiyouth.org" class="button">Start a conversation</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Contact -->
+					<section class="wrapper style1 align-center" id="contact">
+						<div class="inner medium">
+							<h2>Get in touch</h2>
+							<p>The fastest way to reach us is email. Tell us who you are and what you’re hoping to do; family support, volunteering, partnerships, donations, or grant conversations.</p>
+							<ul class="actions special">
+								<li><a href="mailto:info@akamaiyouth.org" class="button primary">Email Akamai Youth</a></li>
+							</ul>
+							<p class="minor">Email not set up yet? Create the address in your email system and this button will start working immediately.</p>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="mailto:info@akamaiyouth.org" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p><strong>Akamai Youth</strong>; Hawaiʻi-based 501(c)(3) nonprofit; EIN 41-2656861.</p>
+							<p>&copy; Akamai Youth. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+</body>
+</html>
