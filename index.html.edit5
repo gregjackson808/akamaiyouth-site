@@ -164,20 +164,5 @@
 		<script src="assets/js/util.js"></script>
 		<script src="assets/js/main.js"></script>
 
-	
-<section id="director" style="padding: 3rem 0;">
-  <div class="inner">
-    <h2>Executive Director</h2>
-    <p><strong>Greg Jackson</strong><br>
-    Founder & Executive Director, Akamai Youth</p>
-    <p>
-      Greg Jackson brings decades of enterprise IT and public‑sector systems experience, with a focus on translating
-      complex technology into practical, human‑centered learning. Akamai Youth reflects his commitment to digital
-      equity, responsible technology use, and preparing youth with limited access to technology for real‑world
-      understanding of hardware, software, and introductory artificial intelligence.
-    </p>
-  </div>
-</section>
-
-</body>
+	</body>
 </html>
