@@ -9,15 +9,6 @@
 		<title>Akamai Youth | Hawaiʻi based youth tech nonprofit</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="Akamai Youth is a Hawaiʻi-based 501(c)(3) nonprofit helping youth with limited access to technology gain hands-on experience with computer hardware, software, and introductory artificial intelligence concepts." />
-		<meta property="og:title" content="Akamai Youth | Hawaiʻi based youth tech nonprofit" />
-		<meta property="og:description" content="Youth with limited access to technology gain hands-on experience with computer hardware, software, and introductory artificial intelligence concepts; building confidence, digital skills, and opportunity." />
-		<meta property="og:type" content="website" />
-		<meta property="og:url" content="https://akamaiyouth.org/" />
-		<meta property="og:image" content="https://akamaiyouth.org/images/banner.jpg" />
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="Akamai Youth" />
-		<meta name="twitter:description" content="Hands-on technology learning and mentorship for Hawaiʻi youth; focused on access, confidence, and practical skills." />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
@@ -29,7 +20,7 @@
 				<div class="content">
 					<h1>Akamai Youth</h1>
 					<p class="major">Supporting Hawaiʻi’s youth and families through technology, mentorship, and opportunity.</p>
-					<p>Akamai Youth is a Hawaiʻi based nonprofit. Our focus is simple. We support youth with limited access to technology through hands on learning, caring mentors, and community support that feels local and real.</p>
+					<p>Akamai Youth is a Hawaiʻi based nonprofit. Our focus is simple. We help young people build confidence and practical skills through hands on learning, caring mentors, and community support that feels local and real.</p>
 					<ul class="actions stacked">
 						<li><a href="#youth" class="button big wide smooth-scroll-middle">Start here</a></li>
 					</ul>
@@ -62,7 +53,6 @@
 				<div class="content">
 					<h2>What we do</h2>
 					<p>Our programs are designed to be approachable, practical, and supportive. We focus on real skills, real relationships, and steady progress, not hype.</p>
-					<p><strong>Akamai Youth Pilot: Youth with limited access to technology gain hands-on experience with computer hardware, software, and introductory artificial intelligence concepts to build a healthy, practical understanding of modern technology.</strong></p>
 					<ul>
 						<li><strong>Technology access and digital skills</strong> helping youth become confident users and creators, not just consumers</li>
 						<li><strong>Mentorship and guidance</strong> caring adults who listen, encourage, and help youth see what’s possible</li>
@@ -99,7 +89,7 @@
 				<div class="inner">
 					<h2>For partners and donors</h2>
 					<p>If you care about Hawaiʻi’s future, there’s a place for you here. Akamai Youth works best with the community. Local businesses, mentors, and organizations who want to support youth in a grounded, practical way.</p>
-					<p><strong>Akamai Youth is a 501(c)(3) charitable nonprofit</strong> (EIN 41-2656861). We take stewardship seriously and aim to make support easy, transparent, and meaningful.</p>
+					<p><strong>Akamai Youth is a 501(c)(3) charitable nonprofit</strong> (EIN 41 2656861). We take stewardship seriously and aim to make support easy, transparent, and meaningful.</p>
 					<ul class="actions special">
 						<li><a href="mailto:info@akamaiyouth.org" class="button primary">Contact us about partnering</a></li>
 					</ul>
@@ -110,7 +100,6 @@
 				<div class="inner">
 					<h2>For institutions and grantmakers</h2>
 					<p>Akamai Youth is a Hawaiʻi based 501(c)(3) nonprofit focused on youth development through technology, mentorship, and hands on learning. We welcome conversations with institutional partners aligned with education, workforce readiness, and community resilience.</p>
-					<p><strong>Federal registrations</strong> SAM.gov UEI: C2DCC5KRM6F6.</p>
 					<div class="items style1 medium onscroll-fade-in">
 						<section>
 							<h3>Accountability</h3>
@@ -149,7 +138,7 @@
 						<li><a href="https://instagram.com/AkamaiYouth" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
 						<li><a href="mailto:info@akamaiyouth.org" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
-					<p><strong>Akamai Youth</strong> Hawaiʻi based 501(c)(3) nonprofit EIN 41-2656861.</p>
+					<p><strong>Akamai Youth</strong> Hawaiʻi based 501(c)(3) nonprofit EIN 41 2656861.</p>
 					<p>© Akamai Youth. Design by <a href="https://html5up.net">HTML5 UP</a>.</p>
 				</div>
 			</footer>
